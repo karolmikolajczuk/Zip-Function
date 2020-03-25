@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Karol\source\repos\ZIP\ZIP\zip.hpp(51,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :  zobacz odwołanie do kompilowanego wystąpienia „std::list<std::list<int,std::allocator<int>>,std::allocator<_Ty>> tools::zip<std::list<int,std::allocator<int>>,std::list<int,std::allocator<int>>>(T1,T2)” funkcji szablon
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :         with
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :         [
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :             _Ty=std::list<int,std::allocator<int>>,
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :             T1=std::list<int,std::allocator<int>>,
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :             T2=std::list<int,std::allocator<int>>
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(6): message :         ]
+  Trwa generowanie kodu
+  29 of 264 functions (11.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ZIP.vcxproj -> C:\Users\Karol\source\repos\ZIP\Release\ZIP.exe

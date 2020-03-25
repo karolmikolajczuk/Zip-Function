@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(253,2): warning C4018:  "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(251): message :  podczas kompilowania funkcji składowej „T_T &container<T_T>::popElement(int &&)” klasy klasa szablon
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(251): message :         with
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(251): message :         [
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(251): message :             T_T=int
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(251): message :         ]
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(16): message :  zobacz odwołanie do kompilowanego wystąpienia „T_T &container<T_T>::popElement(int &&)” funkcji szablon
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(16): message :         with
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(16): message :         [
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(16): message :             T_T=int
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(16): message :         ]
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(5): message :  zobacz odwołanie do kompilowanego wystąpienia „container<int>” klasy klasa szablon
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(239,2): warning C4018:  "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(237): message :  podczas kompilowania funkcji składowej „T_T &container<T_T>::popElement(int &)” klasy klasa szablon
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(237): message :         with
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(237): message :         [
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(237): message :             T_T=int
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(237): message :         ]
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(14): message :  zobacz odwołanie do kompilowanego wystąpienia „T_T &container<T_T>::popElement(int &)” funkcji szablon
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(14): message :         with
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(14): message :         [
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(14): message :             T_T=int
+C:\Users\Karol\source\repos\ZIP\ZIP\main.cpp(14): message :         ]
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(249): warning C4715:  "container<int>::popElement”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(263): warning C4715:  "container<int>::popElement”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Karol\source\repos\ZIP\ZIP\container.h(234): warning C4172:  zwracanie adresu lokalnej zmiennej lub tymczasowej: val
+  ZIP.vcxproj -> C:\Users\Karol\source\repos\ZIP\Debug\ZIP.exe
